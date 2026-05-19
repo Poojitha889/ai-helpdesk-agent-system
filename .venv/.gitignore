@@ -1,0 +1,6 @@
+.venv/
+.env
+cred.json
+application_project_credentials.json
+__pycache__/
+.idea/
